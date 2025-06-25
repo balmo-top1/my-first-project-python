@@ -1,2 +1,4 @@
-# my-first-project-python
-Простой консольный проект на Python
+# My First Python Project
+
+Этот проект — моя первая анкета на Python.  
+Я учусь программировать и развиваю навыки backend-разработки.
